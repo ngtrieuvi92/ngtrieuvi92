@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ngtrieuvi92
+- 👋 Hi, I’m Vĩ Nguyễn
 - I'm a software Engineer, Infatuated with Product Development, DevOps, OS, Blockchain, Software Engineering, Hardware
 - I'm also writting a litle bit at [https://vinguyen.blog/](https://vinguyen.blog/)
 
